@@ -14,6 +14,6 @@ public class chamber {
         double cevre = 2 * pi *r;
         System.out.println("Dairenizin çevresi : "+cevre);
         double b =(pi*(r*r)*a)/360;
-        System.out.print("Daire diliminizin alanı : "+b);
+        System.out.print("Daire diliminizin alanı : "+ b);
     }
 }
